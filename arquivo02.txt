@@ -2,3 +2,5 @@ linha02
 linha03
 linha04
 linha05
+linha06
+linha7
